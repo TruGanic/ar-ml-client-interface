@@ -1,5 +1,0 @@
-C:/Projects/OrganicTraceAR/.utmp/RelWithDebInfo/514d2g3r/armeabi-v7a/CMakeFiles/edit_cache.dir
-C:/Projects/OrganicTraceAR/.utmp/RelWithDebInfo/514d2g3r/armeabi-v7a/CMakeFiles/rebuild_cache.dir
-C:/Projects/OrganicTraceAR/.utmp/RelWithDebInfo/514d2g3r/armeabi-v7a/GameActivity/CMakeFiles/game.dir
-C:/Projects/OrganicTraceAR/.utmp/RelWithDebInfo/514d2g3r/armeabi-v7a/GameActivity/CMakeFiles/edit_cache.dir
-C:/Projects/OrganicTraceAR/.utmp/RelWithDebInfo/514d2g3r/armeabi-v7a/GameActivity/CMakeFiles/rebuild_cache.dir
